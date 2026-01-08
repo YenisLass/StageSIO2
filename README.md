@@ -1,1 +1,1 @@
-# StageSIO2
+Site one page vitrine de vente de composants informatique.
